@@ -28,3 +28,12 @@ https://firebase.google.com/docs/database/admin/start
 - settare schermata iniziale
 
 https://developers.facebook.com/docs/messenger-platform/discovery/welcome-screen/
+
+
+- Heroku
+
+https://devcenter.heroku.com/articles/heroku-cli
+npm install -g heroku
+heroku login
+heroku create
+git push heroku master
