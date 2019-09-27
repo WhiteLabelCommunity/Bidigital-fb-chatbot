@@ -153,7 +153,7 @@ function askTel(convo){
 
 
 
-bot.start();
+bot.start(process.env.PORT || 3000);
 
 
 
